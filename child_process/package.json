@@ -1,0 +1,14 @@
+{
+  "name": "child_process",
+  "version": "1.0.0",
+  "main": "monitor.ts",
+  "author": "Gabriel Mendonça <gabrielmendoncanf@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^10.0.0",
+    "tsc": "^2.0.3",
+    "typescript": "^4.3.2"
+  }
+}
