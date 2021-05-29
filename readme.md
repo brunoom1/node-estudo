@@ -16,3 +16,7 @@ A frequência alteração não deve ser alta. Mas vou tentar aprender ao menos u
 Se você leu até aqui, acredito até que vai comentar. E ficaria muito grato. 
 
 Obrigado.
+
+## Libs
+- child_process
+    - [fork](/child_process/fork)
